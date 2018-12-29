@@ -6,7 +6,7 @@
 
 [26. Remove-Duplicates-from-Sorted-Array](https://github.com/fzy-Line/LeetCode-Python/blob/master/26-Remove-Duplicates-from-Sorted-Array)
 
-[27. Remove Element](https://github.com/fzy-Line/LeetCode-Python/blob/master/27-Remove Element) 
+[27. Remove Element](https://github.com/fzy-Line/LeetCode-Python/blob/master/27-Remove-Element) 
 
 [66. Plus-One](https://github.com/fzy-Line/LeetCode-Python/blob/master/66-Plus-One) 
 
