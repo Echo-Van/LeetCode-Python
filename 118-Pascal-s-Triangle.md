@@ -1,19 +1,3 @@
----
-title: LeetCode 118. Pascal's Triangle
-tags:
-  - LeetCode
-  - Array
-categories:
-  - Algorithm
-  - LeetCode
-abbrlink: 45311
-date: 2018-12-04 19:44:04
----
-
-<center>LeetCode 118. Pascal's Triangle</center>
-
-<!--more-->
-
 ##### 题目描述
 
 - **英文**

@@ -1,19 +1,3 @@
----
-title: LeetCode 66. Plus One
-tags:
-  - LeetCode
-  - Array
-categories:
-  - Algorithm
-  - LeetCode
-abbrlink: 23357
-date: 2018-12-02 19:38:11
----
-
-<center>LeetCode 66. Plus One</center>
-
-<!--more-->
-
 ##### 题目描述
 
 - **英文：**

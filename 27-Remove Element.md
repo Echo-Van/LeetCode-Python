@@ -1,19 +1,3 @@
----
-title: LeetCode 27. Remove Element
-tags:
-  - LeetCode
-  - Array
-categories:
-  - Algorithm
-  - LeetCode
-abbrlink: 60385
-date: 2018-12-03 19:34:47
----
-
-<center>LeetCode 27. Remove Element 题解</center>
-
-<!--more-->
-
 ##### 题目描述
 
 - **英文：**

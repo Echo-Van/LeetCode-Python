@@ -1,19 +1,3 @@
----
-title: LeetCode 26. Remove Duplicates from Sorted Array
-tags:
-  - LeetCode
-  - Array
-categories:
-  - Algorithm
-  - LeetCode
-abbrlink: 53156
-date: 2018-12-05 10:35:11
----
-
-<center>LeetCode 26. Remove Duplicates from Sorted Array 题解</center>
-
-<!--more-->
-
 ##### 题目描述
 
 - 英文

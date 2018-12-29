@@ -1,18 +1,3 @@
----
-title: LeetCode 122. Best Time to Buy and Sell Stock II
-date: 2018-12-29 11:27:56
-tags:
-  - LeetCode
-  - Array
-categories:
-  - Algorithm
-  - LeetCode
----
-
-<center>LeetCode 122. Best Time to Buy and Sell Stock II 题解</center>
-
-<!--more-->
-
 ##### 题目描述
 
 - **英文：**
